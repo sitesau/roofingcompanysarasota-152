@@ -1,0 +1,19 @@
+{
+  "wheel_id": 359,
+  "structure": "umbrella",
+  "slug": "roofingcompanysarasota-152",
+  "project": "roof-repairs-sarasota-764658c08963f4636d84c9666565b9bb95c890c3",
+  "parent_t1_ref": "roofingcompanysarasota-003",
+  "node_role": "buffer",
+  "money_target": "roofingcompanysarasota.net",
+  "primary_kw": "roof repairs sarasota",
+  "intended_url": "https://sitesau.github.io/roofingcompanysarasota-152/",
+  "writeback_nonce": "8bd806707648a36b",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/roof-repairs-sarasota/",
+      "anchor": "roof repairs sarasota",
+      "rel": "follow"
+    }
+  ]
+}
